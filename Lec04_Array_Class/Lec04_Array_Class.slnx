@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lec04_Array_Class/Lec04_Array_Class.vcxproj" Id="7aefa58b-418d-4ba6-aaea-6de2a4f92edb" />
+</Solution>
